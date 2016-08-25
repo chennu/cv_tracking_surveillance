@@ -8,4 +8,12 @@ In this project, we have two parts:
 1) People Tracking 
 2) Face Detection.
 
+Here for the people tracking, we used 1) Frame Difference Method 2) Approximate Median method .
+
+And can find the differences easily by seeing the output.
+
+
+For Face Detection we have used inbuilt Face detector (Viola Jones Algorithm). The algorithm is used on both image and a video.
+
+
 
