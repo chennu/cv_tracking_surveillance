@@ -14,6 +14,7 @@ And can find the differences easily by seeing the output.
 
 
 For Face Detection we have used inbuilt Face detector (Viola Jones Algorithm). The algorithm is used on both image and a video.
+After detection of the face, a simple auto cropping of the face is being implemented to store the faces in a database.
 
 
 
